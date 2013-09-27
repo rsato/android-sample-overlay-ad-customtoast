@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomToastSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edittext_show_text_label">tap to show custom Toast</string>
+    <string name="toast_message_label">tap to show Web site!</string>
+    <color name="toast_message_background_color">#f00</color>
+
+</resources>
